@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there I'm rintarookabe-dev 👋</h1>
 
 <body>
@@ -21,6 +19,6 @@
 <div>
 <h2 align="center">PV (Since 2026)</h2>
 <div align="center">
-<img src=https://count.getloli.com/@rintarookabe-dev?name=rintarookabe-dev&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto/>
+<img src=https://count.getloli.com/@rintarookabe-dev?name=rintarookabe-dev&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto/>
   </div>
 <br>
