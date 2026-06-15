@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src= "">
+<img src= "okabe-rintaro.gif">
 </div>
 <br>
 
