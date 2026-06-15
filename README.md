@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src= "file:///C:/Users/Persian/Downloads/okabe-rintaro.gif">
+<img src= "">
 </div>
 <br>
 
