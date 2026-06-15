@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src= "https://tenor.com/view/okabe-rintaro-gif-18515625" width="300px">
+<img src= "file:///C:/Users/Persian/Downloads/okabe-rintaro.gif">
 </div>
 <br>
 
