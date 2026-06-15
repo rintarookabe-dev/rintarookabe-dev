@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**rintarookabe-dev/rintarookabe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there I'm rintarookabe-dev 👋</h1>
 
-Here are some ideas to get you started:
+<body>
+<br>
+<div align="center">
+<img src=https://tenor.com/view/okabe-rintaro-gif-18515625" width="300px">
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">GitHub Stats</h2>
+<div> 
+<p align="center">
+  <a>![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rintarookabe-dev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rintarookabe-dev&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rintarookabe-dev&layout=compact&theme=dark)</a>
+</p>
+</div>
+<br>
+
+<br>
+<div>
+<h2 align="center">PV (Since 2026)</h2>
+<div align="center">
+<img src="https://count.getloli.com/@rintarookabe-dev?name=rintarookabe-dev&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+  </div>
+<br>
